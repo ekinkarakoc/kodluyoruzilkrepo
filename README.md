@@ -1,7 +1,8 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo ![Ekran görüntüsü 2022-07-29 185148](https://user-images.githubusercontent.com/110224537/181802792-c616244c-ad0d-43c4-92fd-c82018ff6f8d.png) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![Ekran görüntüsü 2022-07-29 185148](https://user-images.githubusercontent.com/110224537/181802792-c616244c-ad0d-43c4-92fd-c82018ff6f8d.png)
 
 ## Installation!
 
