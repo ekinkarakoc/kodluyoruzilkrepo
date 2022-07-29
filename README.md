@@ -9,7 +9,7 @@ Bu repo ![Ekran görüntüsü 2022-07-29 185148](https://user-images.githubuserc
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/ekinkarakoc/kodluyoruzilkrepo.git
 ```
 
 ## Usage
